@@ -1,6 +1,5 @@
 # Copyright (C) 2026 creampuffle
-# SPDX-License-Identifier: GPL-3.0-only
-# Additional terms apply; see ADDITIONAL_TERMS.
+# SPDX-License-Identifier: BSD-3-Clause
 
 cmake_minimum_required(VERSION 3.16)
 project(coverage_rasterizer VERSION 0.1.0 LANGUAGES C)
