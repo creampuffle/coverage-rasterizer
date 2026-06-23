@@ -1,8 +1,4 @@
 build/
-out/
-*.a
-*.lib
 *.o
 *.obj
 *.exe
-*.pdb
